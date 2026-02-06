@@ -6,6 +6,7 @@ This project addresses the business challenge of unpredictable seasonal demand c
 
 **Key Business Discovery**
 The Decadal Shift: Peak blooming dates have advanced by 8.1 days on average since the 1950s.
+
 <img width="542" height="79" alt="Screenshot 2026-02-06 at 2 16 46 PM" src="https://github.com/user-attachments/assets/71168302-3f4a-4f94-98ac-0f246cac0b4f" />
 
 Statistical Correlation: A strong negative correlation (-0.5016) confirms a persistent long-term trend, allowing for reliable multi-year strategic planning.
