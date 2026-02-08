@@ -1,3 +1,5 @@
+Data Resource (Kaggle): 'https://www.kaggle.com/datasets/ryanglasnapp/japanese-cherry-blossom-data'
+
 Project Overview
 This project addresses the business challenge of unpredictable seasonal demand caused by climatic shifts in Japan. By performing time-series analysis on 70 years of historical data, this model quantifies the advancing bloom dates in Tokyo to provide actionable insights for supply chain management and strategic marketing.
 
